@@ -1,4 +1,4 @@
-# Robots.txt for plex​ iptv
+# Robots.txt for plex iptv
 User-agent: *
 Allow: /
 Disallow: /api/
@@ -6,4 +6,4 @@ Disallow: /admin/
 Disallow: /checkout/thank-you/
 
 # Sitemap location
-Sitemap: https://iptvplex​.shop/sitemap.xml
+Sitemap: https://iptvplex.shop/sitemap.xml
